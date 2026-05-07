@@ -1,0 +1,6 @@
+signal,dominant_freq_hz,breaths_per_min,interpretation
+4-channel average,0.31666666666666665,19.0,4-channel EEG average
+ICA 0,0.15,9.0,slow respiration-band ICA rhythm
+ICA 1,0.15,9.0,slow respiration-band ICA rhythm
+ICA 2,0.2833333333333333,17.0,faster respiration-band ICA rhythm
+BI proxy,0.05,3.0,BI-derived physiology proxy
